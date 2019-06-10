@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.new1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Gu.868\\New1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "New1 [Testing]"
+        }
+      }
+    }
+  ]
+}
